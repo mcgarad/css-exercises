@@ -1,0 +1,21 @@
+/* style.css */
+
+.p-element {
+    background-color: rgb(243, 151, 151);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#second-element {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#fourth-element {
+    background-color: rgb(153, 255, 70);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.third-element {
+    font-size: 24px;
+}
